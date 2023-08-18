@@ -1,0 +1,13 @@
+/Animal.class
+/Application.class
+/BrownBear.class
+/Flyable.class
+/Goldfinch.class
+/InvalidSimIDException.class
+/InvalidSubspeciesException.class
+/InvalidWingspanException.class
+/InvalidXCoordinateException.class
+/InvalidYCoordinateException.class
+/Location.class
+/Swimmable.class
+/Walkable.class
